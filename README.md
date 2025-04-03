@@ -1,4 +1,4 @@
-# Horizontal Pinned Scroll Animation
+# 🔄Horizontal Pinned📌 Scroll Animation🎬
 
 # 🚀 Overview
 
